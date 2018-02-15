@@ -4,7 +4,7 @@ Hangman Game
 1) Create variables for:
     Number of wins
     Number of losses
-    Number of guesses left
+    Number of gueses left
     
     Array of Words
     Array of Letters Selected
